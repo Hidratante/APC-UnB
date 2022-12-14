@@ -1,2 +1,3 @@
 # APC-UnB
-Exercícios iniciais de Algoritmo e Programação de Computadores 
+Begginer coding problems
+Exercícios de programção para iniciantes
